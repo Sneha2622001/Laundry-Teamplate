@@ -1,0 +1,186 @@
+body{
+    font-size: 20px;
+}
+
+
+#navbarScroll a:hover{
+    color: #6785ff;
+}
+
+i{
+    color: #6785ff;
+    margin-right: 10px;
+}
+
+.number{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.appointment{
+    text-decoration: none;
+    background-color: #6785ff;
+    line-height: 1;
+    margin: 0;
+    padding: 37px 41px 34px 41px;
+    color: #fff;
+}
+
+.navbar-brand{
+    padding: 0 25px;
+}
+
+.top-nav{
+    padding: 4px 0;
+}
+
+.title{
+    padding: 25% 10% 22%;
+   width: 1240px;
+   position: relative;
+   left: 0;
+   top: 0;
+}
+
+
+#Navbar{
+    padding: 15px 0;
+}
+
+#navbarScroll a:hover{
+    color: #6785ff;
+}
+
+i{
+    color: #6785ff;
+    margin-right: 10px;
+}
+
+.number{
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+.appointment{
+    text-decoration: none;
+    background-color: #6785ff;
+    line-height: 1;
+    margin: 0;
+    padding: 30px 34px 30px 34px;
+    color: #fff;
+}
+
+.navbar-brand{
+    padding: 0 25px;
+}
+
+.top-nav{
+    padding: 4px 0;
+
+}
+
+#Banner{
+    background-image:url("https://preview.colorlib.com/theme/laundry/assets/img/hero/xh1_hero.png.pagespeed.ic.bzdEpLuHue.webp");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.hero__caption h1 {
+    font-size:60px;
+    font-weight: 700;
+    margin-bottom: 14px;
+    color: #fff;
+    line-height: 1.2;
+    margin-bottom: 29px;
+    text-transform: capitalize;
+}
+.hero__caption p{
+    color: #fff;
+    font-size:1.3em;
+    font-weight:500;
+}
+
+.hero-btn{
+    background-color: #6785ff;
+    border-radius: 49px;
+    padding: 16px 40px;
+    cursor: pointer;
+    color: #fff;
+    font-size:1.1em;
+}
+
+/** #features h2{
+    font-size: 40px;
+    display: block;
+    color: blue;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-top: 0;
+    font-style: normal;
+    margin-bottom: .5rem;
+    margin-block-start:0.83em ;
+    margin-block-end:0.83em ;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    margin-left: 40%;
+}**/
+
+#features  h2{
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0.5rem;
+    margin-top: 0;
+    color: blue;
+    font-weight: 600;
+    line-height: 1.4;
+    margin-block-start:0.83em ;
+    margin-block-end:0.83em ;
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    display: block;
+
+}
+h2{
+    padding: 25px 0;
+}
+h4 {
+    padding: 13px 0;
+    font-size: 25px;
+}
+#features {
+    text-align: center;
+}
+
+#features p{
+    color: grey;
+    padding: 16px 0;
+    font-size: 16px;
+    line-height: 2;
+}
+#features .icons{
+    padding: 10px 0;
+}
+
+.element{
+    background-color: rgba(103,133,255, 0.1);
+    padding: 5px 17px;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom:22px;
+    text-transform: capitalize;
+    display: inline-block;
+    color:#6785ff;
+    border-radius: 30px;
+    text-align: center;
+}
+
+/**SERVICES**/
+
+#services .single-offer .offer-section .offer-icon{
+    padding: 0 102px;
+    text-align: center;
+    display: block;
+    font-size: 16px;
+    font-weight: normal;
+}
+
